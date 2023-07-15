@@ -10,6 +10,8 @@ IDE :-  VS code
 
 Language :- HTML , CSS , JavaScript 
 
+GitHub link :-  https://github.com/Shreyas-Vanage/OCTANET_JULY_TASK-3
+
 Details :-  
 
 1. In this task I have made clone of GitHub website.
