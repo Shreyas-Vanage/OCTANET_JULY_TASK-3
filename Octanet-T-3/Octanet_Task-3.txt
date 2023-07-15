@@ -1,0 +1,21 @@
+Name :-  Shreyas Hiru Vanage
+
+Intern at Octanet
+
+Domain :- Web Development intern
+
+Task-3 :-  Clone of any Website
+
+IDE :-  VS code
+
+Language :- HTML , CSS , JavaScript 
+
+Details :-  
+
+1. In this task I have made clone of GitHub website.
+2. It is made by HTML , CSS , JavaScript , etc.
+3. It is only a Simple Landing page of GitHub website.
+3. It is not connected to any database.
+
+Note :-  This website is only made for learning purpose.
+	  " ALL  RIGHTS  ARE  RESERVERD  TO  GITHUB "
